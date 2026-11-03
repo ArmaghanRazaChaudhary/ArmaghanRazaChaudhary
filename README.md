@@ -22,6 +22,6 @@ Ethereum · Avalanche · Solana · Chainlink · Uniswap
 - [ReplicaAI](https://github.com/ArmaghanRazaChaudhary/ReplicaAI): fine-tune a local LLM on your own chats
 - [EasyRecon](https://github.com/ArmaghanRazaChaudhary/EasyRecon): pharmacy reconciliation assistant
 
-Most of my professional work is in private company repos.
+Most of my professional work is in private company repos which are confidential.
 
 📫 armaghan4455@gmail.com · [LinkedIn](https://www.linkedin.com/in/armaghan-raza)
