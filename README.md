@@ -24,3 +24,4 @@ Ethereum · Avalanche · Solana · Chainlink · Uniswap
 
 Most of my professional work is in private company repos.
 
+📫 armaghan4455@gmail.com · [LinkedIn](https://www.linkedin.com/in/armaghan-raza)
