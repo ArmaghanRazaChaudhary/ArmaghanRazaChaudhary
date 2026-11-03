@@ -1,6 +1,6 @@
 # M. Armaghan Raza
 
-Senior engineer, 8 years building trading and digital-asset infrastructure.
+Senior engineer, 8 years building trading and digital-asset infrastructure.  
 Lahore, Pakistan · open to remote and relocation
 
 **What I've built in production**
@@ -12,7 +12,7 @@ Lahore, Pakistan · open to remote and relocation
 - Grew an engineering team to ~80 as engineering lead
 
 **Stack**
-C++ · Rust · TypeScript · Python · Solidity · Node.js · PostgreSQL · Redis · AWS · Docker
+C++ · Rust · TypeScript · Python · Solidity · Node.js · PostgreSQL · Redis · AWS · Docker  
 Ethereum · Avalanche · Solana · Chainlink · Uniswap
 
 **Public projects**
