@@ -20,6 +20,7 @@ Ethereum · Avalanche · Solana · Chainlink · Uniswap
 - [ContractAudit](https://github.com/ArmaghanRazaChaudhary/ContractAudit): smart-contract security RAG with MCP tools
 - [ReplicaAI](https://github.com/ArmaghanRazaChaudhary/ReplicaAI): fine-tune a local LLM on your own chats
 - [EasyRecon](https://github.com/ArmaghanRazaChaudhary/EasyRecon): pharmacy reconciliation assistant
+- [Doctors Appointment Transcriber](https://github.com/ArmaghanRazaChaudhary/doctors-appointment-transcriber): Urdu and Urdu-English consultations to structured clinical notes, local Whisper + Qwen with DRAP medicine matching
 
 Most of my professional work is in private company repos which are confidential.
 
